@@ -15,7 +15,7 @@
 
 A responsive web application for searching books using the Google Books API. This project was developed as a front-end challenge to practice and showcase skills in consuming REST APIs, dynamic DOM manipulation, and modern web development practices.
 
-🔗 **Live Demo:** **[Click here to see it live!](https://leutztealeaf.github.io/NOME-DO-SEU-REPOSITORIO/)**
+🔗 **Live Demo:** **[Click here to see it live!](https://leutztealeaf.github.io/BookFinderAPP/)**
 
 ### ✨ Features
 
@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/leutztealeaf/NOME-DO-SEU-REPOSITORIO.git](https://github.com/leutztealeaf/NOME-DO-SEU-REPOSITORIO.git)
+    git clone [https://github.com/leutztealeaf/NOME-DO-SEU-REPOSITORIO.git](https://github.com/leutztealeaf/BookFinderAPP.git)
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
 
 Uma aplicação web responsiva para pesquisar livros utilizando a API do Google Books. Este projeto foi desenvolvido como um desafio de front-end para praticar e demonstrar habilidades no consumo de APIs REST, manipulação dinâmica do DOM e práticas modernas de desenvolvimento web.
 
-🔗 **Demonstração Ao Vivo:** **[Clique aqui para ver o projeto online!](https://leutztealeaf.github.io/NOME-DO-SEU-REPOSITORIO/)**
+🔗 **Demonstração Ao Vivo:** **[Clique aqui para ver o projeto online!](https://leutztealeaf.github.io/BookFinderAPP/)**
 
 
 ### ✨ Funcionalidades
@@ -89,10 +89,10 @@ Para executar este projeto localmente, siga estes passos:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/leutztealeaf/NOME-DO-SEU-REPOSITORIO.git](https://github.com/leutztealeaf/NOME-DO-SEU-REPOSITORIO.git)
+    git clone [https://github.com/leutztealeaf/BookFinderAPP.git](https://github.com/leutztealeaf/BookFinderAPP.git)
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd NOME-DO-SEU-REPOSITORIO
+    cd BookFinderAPP
     ```
 3.  Abra o arquivo `index.html` no seu navegador.
