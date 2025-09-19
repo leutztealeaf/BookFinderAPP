@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd NOME-DO-SEU-REPOSITORIO
+    cd BookFinderAPP
     ```
 3.  Open the `index.html` file in your browser.
 
