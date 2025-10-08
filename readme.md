@@ -15,7 +15,7 @@
 
 A responsive web application for searching books using the Google Books API. This project was developed as a front-end challenge to practice and showcase skills in consuming REST APIs, dynamic DOM manipulation, and modern web development practices.
 
-🔗 **Live Demo:** **[Click here to see it live!](https://leutztealeaf.github.io/BookFinderAPP/)**
+🔗 **Live Demo:** **[Click here to see it live!](https://leutztealeaf.github.io/BookFinderAPP/](https://drsauce0101.github.io/BookFinderAPP/)**
 
 ### ✨ Features
 
@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
 
 Uma aplicação web responsiva para pesquisar livros utilizando a API do Google Books. Este projeto foi desenvolvido como um desafio de front-end para praticar e demonstrar habilidades no consumo de APIs REST, manipulação dinâmica do DOM e práticas modernas de desenvolvimento web.
 
-🔗 **Demonstração Ao Vivo:** **[Clique aqui para ver o projeto online!](https://leutztealeaf.github.io/BookFinderAPP/)**
+🔗 **Demonstração Ao Vivo:** **[Clique aqui para ver o projeto online!](https://drsauce0101.github.io/BookFinderAPP/)**
 
 
 ### ✨ Funcionalidades
