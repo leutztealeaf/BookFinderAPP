@@ -2,7 +2,7 @@
 
 ---
 
-## 🇺🇸 English
+## 🇬🇧 English
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status" />
